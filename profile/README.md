@@ -1,10 +1,11 @@
-## Nara Robocon Project 2023 B team
+# Nara Robocon Project 2023 B team
 
 奈良高専ロボコンプロジェクト 2023 B チームの GitHub リポジトリです。
 
 ### 外部の方へ
 
 GitHub は情報管理の観点から、完全非公開となっております。本プロジェクトに付きましては、公式ホームページ、もしくは本校学生課へお問い合わせください。
+
 https://nararoboconproject.wordpress.com/contact/
 
 ### 内部の方へ
